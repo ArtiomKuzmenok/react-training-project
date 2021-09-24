@@ -24,7 +24,7 @@ npm start
 - JS
 - JSX
 - CSS
-- -HTML
+- HTML
 
 ## Tools 
--VS Code
+- VS Code
